@@ -1,0 +1,7 @@
+tensorflow==2.19.0
+tensorflow-decision-forests==1.12.0
+tensorflowjs==4.17.0
+numpy
+matplotlib
+scikit-learn
+pillow
